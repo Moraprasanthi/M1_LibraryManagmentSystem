@@ -17,10 +17,7 @@
 #include<string.h>
 
 
-/**
- * @brief structure for Book Record
- * 
- */
+
 typedef struct library
 {
     int book_id;
