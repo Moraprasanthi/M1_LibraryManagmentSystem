@@ -25,10 +25,7 @@ typedef struct library
     char author_name[20];
 }book;
 
-/**
- * @brief return type for funtions for unit testing
- * 
- */
+
 
 typedef enum test_values {
     pass = 1,
