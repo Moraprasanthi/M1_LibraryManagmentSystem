@@ -70,7 +70,7 @@
   #endif /* UINT_MAX */
 #endif
 
-/* Determine the size of a long, if not already specified. */
+
 #ifndef UNITY_LONG_WIDTH
   #ifdef ULONG_MAX
     #if (ULONG_MAX == 0xFFFF)
