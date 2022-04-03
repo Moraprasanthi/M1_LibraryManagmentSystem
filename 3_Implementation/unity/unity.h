@@ -20,9 +20,7 @@ extern "C"
 
 #include "unity_internals.h"
 
-/*-------------------------------------------------------
- * Test Setup / Teardown
- *-------------------------------------------------------*/
+
 
 /* These functions are intended to be called before and after each test.
  * If using unity directly, these will need to be provided for each test
