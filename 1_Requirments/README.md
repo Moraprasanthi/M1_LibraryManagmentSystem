@@ -30,7 +30,6 @@ d) Secure and Reliable.
 
 e) Increases Efficiency.
 
-f) Simple and Easy to Use.
 
 ## **4W'S and 1H:**
 
