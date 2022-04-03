@@ -11,11 +11,7 @@
 
 #include"library_Managment_system.h"
 
-/**
- * @brief main function of the project
- * 
- * @return int 
- */
+
 
 int main()
 {
